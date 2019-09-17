@@ -1,0 +1,11 @@
+hi this is file contains steps how to send a file from local repository to github 
+
+You have a folder with files in your laptop. You want to move these to GitHub .
+	
+	   Step1 : Convert the normal folder/directory to git repository [converted folder as git local repository ]. [ Git init ]
+	   Step2 : You want to save your files present on local repository in git .
+	                 you must add the files which you want to save to staging area . [ git add Flie.txt ]
+					 Then commit the added files with a message . [git commit -m "First repo addition "]
+	   Step3 : Create an empty remote repository in GitHub .				 
+	   Step4 : Create a connection to Github [remote repository ] from git client [local repository ] .[git remote add origin                    https://github.com/banulearnings/Firstrepo.git]
+	   Step5 : Move / push the changes to GitHub remote repository using the above created connection .
