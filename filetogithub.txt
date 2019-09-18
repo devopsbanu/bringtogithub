@@ -9,3 +9,5 @@ You have a folder with files in your laptop. You want to move these to GitHub .
 	   Step3 : Create an empty remote repository in GitHub .				 
 	   Step4 : Create a connection to Github [remote repository ] from git client [local repository ] .[git remote add origin                    https://github.com/banulearnings/Firstrepo.git]
 	   Step5 : Move / push the changes to GitHub remote repository using the above created connection .
+
+changes done to this file
