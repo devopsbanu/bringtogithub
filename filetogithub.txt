@@ -11,3 +11,5 @@ You have a folder with files in your laptop. You want to move these to GitHub .
 	   Step5 : Move / push the changes to GitHub remote repository using the above created connection .
 
 changes done to this file
+
+being final changes done to this file
